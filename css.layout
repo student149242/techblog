@@ -1,1 +1,14 @@
-
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>CSS</title>
+  </head>
+  <body>
+    <header>
+      <nav>
+        <ul>
+          <li><a href="index.html">home</a></li>
+        </ul>
+      </nav>
+    </header>
+    <article>
