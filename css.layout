@@ -1,19 +1,17 @@
+
 <!DOCTYPE html>
 <html>
   <head>
-    <title>CSS</title>
+     <link rel="stylesheet" href="style.css">
+    <title>HTML</title>
   </head>
   <body>
     <header>
-      <nav>
-        <ul>
-          <li><a href="csslayout.html">home</a></li>
-        </ul>
-      </nav>
-    </header>
-    <article>     
-    
-    <h1>CSS Layout</h1>
+      <li><a href="index.html">home</a></li>
+   </header>
+   <article>
+
+<h1>CSS Layout</h1>
      
      <h3>Single Column</h3>
       <html>
