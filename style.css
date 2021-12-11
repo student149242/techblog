@@ -13,22 +13,26 @@
      <h1>CSS Layout</h1>
      
      <h3>Single Column</h3>
-     
-     <p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="css,result" data-slug-hash="gOxzKMZ" data-user="santiago170350" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/santiago170350/pen/gOxzKMZ">
-  Single-column</a> by Santiago170350 (<a href="https://codepen.io/santiago170350">@santiago170350</a>)
+      
+        <html>
+    <p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="BawLmxa" data-user="student149242" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/student149242/pen/BawLmxa">
+  Single column</a> by student149242 (<a href="https://codepen.io/student149242">@student149242</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
-     
-     <p>The single Column layout is a type of website design layout.The single column layout is mostly used in personal blogs or minimilistic design.The Single column layouts present the main content in a single, vertical column.
+
+    <p>The single column layout is mostly used in personal blogs or minimilistic design.The Single column layouts present the main content in a single, vertical column.
 </p>
+
+
      
      <h3>Split-Screen</h3>
      
-     <p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="css,result" data-slug-hash="xxLzPGz" data-user="santiago170350" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/santiago170350/pen/xxLzPGz">
-  CSS Layout - Split Screen</a> by Santiago170350 (<a href="https://codepen.io/santiago170350">@santiago170350</a>)
+     <html>
+  <p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="oNGzdBr" data-user="student149242" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/student149242/pen/oNGzdBr">
+  CSS layout - Split Screen</a> by student149242 (<a href="https://codepen.io/student149242">@student149242</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
@@ -38,9 +42,11 @@
      
      <h3>Micro vs Macro</h3>
      
-     <p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="css,result" data-slug-hash="OJjwNeY" data-user="santiago170350" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/santiago170350/pen/OJjwNeY">
-  Untitled</a> by Santiago170350 (<a href="https://codepen.io/santiago170350">@santiago170350</a>)
+      <html>
+            
+   <p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="dyVpevx" data-user="student149242" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/student149242/pen/dyVpevx">
+  Macro vs Micro Layout</a> by student149242 (<a href="https://codepen.io/student149242">@student149242</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
